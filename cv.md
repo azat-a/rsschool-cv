@@ -5,6 +5,7 @@ Now I'm studying on a course from the [Rolling Scopes School](https://rs.school/
 
 ## Work experience
 * GitHub profile, up-to-date: [azat-a](https://github.com/azat-a)
+* My Codewars profile: [azat-a](https://www.codewars.com/users/azat-a)
 * My first project: [Singolo](https://azat-a.github.io/singolo/) web page.
 
 ### My previous jobs related to IT:
