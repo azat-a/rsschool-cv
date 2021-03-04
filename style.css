@@ -1,0 +1,94 @@
+/* Links */
+a {
+  color: #424242;
+}
+
+a:hover, a:visited {
+  color: #979797;
+}
+
+/* Breadcrumbs on the top of page */
+header {
+  width: 800px;
+  margin: 20px auto 0;
+}
+
+.breadcrumb {
+  font-size: 0.95em;
+}
+
+.breadcrumb a {
+  text-decoration: none;
+}
+
+.breadcrumb a:visited {
+  color: #424242;
+}
+
+.breadcrumb a:hover {
+  color: #979797;
+}
+
+.breadcrumb .current {
+  color: #979797;
+}
+
+.arrow {
+  font-size: 0.8em;
+}
+
+.breadcrumb hr {
+  margin-left: 0;
+  width: 35%;
+  background-color: #979797;
+}
+
+/*Centered block with main content*/
+main {
+  width: 800px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+main h1:first-child {
+  margin-top: 0;
+}
+
+/* Lead section with photo */
+.avatar-lead {
+  display: flex;
+  align-items: flex-start;
+}
+
+.lead {
+  margin-left: 20px;
+  margin-top: 0;
+}
+
+.lead > p:first-child {
+  margin-top: 0;
+}
+
+/* Lists */
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+li::before {
+  content: "– "
+}
+
+footer {
+  width: 800px;
+  margin: 5px auto 0;
+  font-size: 0.95em;
+}
+
+footer hr {
+  width: 20%;
+  margin-left: 0;
+}
